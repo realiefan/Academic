@@ -20,8 +20,8 @@ superuser: true
 role: Cloud, Code & Security
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name:
+organizations: 
+  - name: Cloud, Code & Security
     url: 
 
 # Short bio (displayed in user profile at end of posts)
