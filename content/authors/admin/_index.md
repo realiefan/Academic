@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Cloud, Code & Security
+role: 
 
 # Organizations/Affiliations to show in About widget
-organizations: 
-  - name: Cloud, Code & Security
+organizations: Cloud, Code & Security
+  - name: 
     url: 
 
 # Short bio (displayed in user profile at end of posts)
