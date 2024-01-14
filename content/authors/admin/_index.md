@@ -20,9 +20,9 @@ superuser: true
 role: 
 
 # Organizations/Affiliations to show in About widget
-organizations: Cloud, Code & Security
-  - name: 
-    url: 
+organizations: 
+  - name: Cloud, Code & Security
+    url: https://iefan.social
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
